@@ -15,6 +15,7 @@ detec = []
 carros= 0
 
 	
+    #jknjn
 def pega_centro(x, y, w, h):
     x1 = int(w / 2)
     y1 = int(h / 2)
